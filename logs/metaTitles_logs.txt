@@ -1,0 +1,107 @@
+01/08/21 12:06:42 AM:WARNING:Class setup is done
+01/08/21 12:08:14 AM: WARNING :Class setup is done
+01/08/21 12:08:55:AM: WARNING: Class setup is done
+01/08/21 12:09:20:AM: WARNING:---> Class setup is done
+01/08/21 12:09:51:AM: DEBUG:---> Class setup is done
+01/08/21 12:18:48:AM: DEBUG:---> Class setup is done
+01/08/21 12:19:14:AM: DEBUG:---> Class setup is done
+01/08/21 12:19:54:AM: DEBUG:---> Class setup is done
+01/08/21 12:21:15:AM: DEBUG:---> Class setup is done
+01/08/21 12:21:42:AM: DEBUG:---> Class setup is done
+01/08/21 12:22:05:AM: DEBUG:---> Class setup is done
+01/08/21 12:22:44:AM: DEBUG:---> Class setup is done
+01/08/21 12:23:04:AM: DEBUG:---> Class setup is done
+01/08/21 12:23:32:AM: DEBUG:---> Class setup is done
+01/08/21 12:24:29:AM: DEBUG:---> Class setup is done
+01/08/21 12:24:38:AM: DEBUG:---> Class setup is done
+01/08/21 12:24:59:AM: DEBUG:---> Class setup is done
+01/08/21 12:25:11:AM: DEBUG:---> Class setup is done
+01/08/21 12:25:22:AM: DEBUG:---> Class setup is done
+01/08/21 12:25:36:AM: DEBUG:---> Class setup is done
+01/08/21 12:25:45:AM: DEBUG:---> Class setup is done
+01/08/21 12:27:14:AM: DEBUG:---> Class setup is done
+01/08/21 12:27:45:AM: DEBUG:---> Class setup is done
+01/08/21 12:27:59:AM: DEBUG:---> Class setup is done
+01/08/21 12:28:55:AM: DEBUG:---> Class setup is done
+01/08/21 12:29:04:AM: DEBUG:---> Class setup is done
+01/08/21 12:29:45:AM: DEBUG:---> Class setup is done
+01/08/21 02:00:54:AM: DEBUG:---> Class setup is done
+01/08/21 02:00:54:AM: INFO:---> it is info
+01/08/21 02:00:54:AM: WARNING:---> it is warning
+01/08/21 02:00:54:AM: ERROR:---> it is error
+01/08/21 02:00:54:AM: CRITICAL:---> It is critical
+01/08/21 02:01:04:AM: DEBUG:---> Class setup is done
+01/08/21 02:01:04:AM: INFO:---> it is info
+01/08/21 02:01:04:AM: WARNING:---> it is warning
+01/08/21 02:01:04:AM: ERROR:---> it is error
+01/08/21 02:01:04:AM: CRITICAL:---> It is critical
+01/08/21 02:01:52:AM: DEBUG:---> Class setup is done
+01/08/21 02:01:52:AM: INFO:---> it is info
+01/08/21 02:01:52:AM: WARNING:---> it is warning
+01/08/21 02:01:52:AM: ERROR:---> it is error
+01/08/21 02:01:52:AM: CRITICAL:---> It is critical
+01/08/21 02:03:42:AM: DEBUG:---> Class setup is done
+01/08/21 02:03:42:AM: INFO:---> it is info
+01/08/21 02:03:42:AM: WARNING:---> it is warning
+01/08/21 02:03:42:AM: ERROR:---> it is error
+01/08/21 02:03:42:AM: CRITICAL:---> It is critical
+01/08/21 02:05:11:AM: DEBUG:---> Class setup is done
+01/08/21 02:05:11:AM: INFO:---> it is info
+01/08/21 02:05:11:AM: WARNING:---> it is warning
+01/08/21 02:05:11:AM: ERROR:---> it is error
+01/08/21 02:05:11:AM: CRITICAL:---> It is critical
+01/08/21 02:05:25:AM: DEBUG:---> Class setup is done
+01/08/21 02:05:25:AM: INFO:---> it is info
+01/08/21 02:05:25:AM: WARNING:---> it is warning
+01/08/21 02:05:25:AM: ERROR:---> it is error
+01/08/21 02:05:25:AM: CRITICAL:---> It is critical
+01/08/21 02:06:01:AM: DEBUG:---> Class setup is done
+01/08/21 02:06:01:AM: INFO:---> it is info
+01/08/21 02:06:01:AM: WARNING:---> it is warning
+01/08/21 02:06:01:AM: ERROR:---> it is error
+01/08/21 02:06:01:AM: CRITICAL:---> It is critical
+01/08/21 02:06:24:AM: DEBUG:---> Class setup is done
+01/08/21 02:06:24:AM: INFO:---> it is info
+01/08/21 02:06:24:AM: WARNING:---> it is warning
+01/08/21 02:06:24:AM: ERROR:---> it is error
+01/08/21 02:06:24:AM: CRITICAL:---> It is critical
+01/08/21 02:11:42:AM: DEBUG:---> Class setup is done
+01/08/21 02:11:42:AM: INFO:---> it is info
+01/08/21 02:11:42:AM: WARNING:---> it is warning
+01/08/21 02:11:42:AM: ERROR:---> it is error
+01/08/21 02:11:42:AM: CRITICAL:---> It is critical
+01/08/21 02:12:19:AM: DEBUG:---> Class setup is done
+01/08/21 02:12:19:AM: INFO:---> it is info
+01/08/21 02:12:19:AM: WARNING:---> it is warning
+01/08/21 02:12:19:AM: ERROR:---> it is error
+01/08/21 02:12:19:AM: CRITICAL:---> It is critical
+01/08/21 02:12:29:AM: DEBUG:---> Class setup is done
+01/08/21 02:12:29:AM: INFO:---> it is info
+01/08/21 02:12:29:AM: WARNING:---> it is warning
+01/08/21 02:12:29:AM: ERROR:---> it is error
+01/08/21 02:12:29:AM: CRITICAL:---> It is critical
+01/08/21 02:13:13:AM: DEBUG:---> Class setup is done
+01/08/21 02:13:13:AM: INFO:---> it is info
+01/08/21 02:13:13:AM: WARNING:---> it is warning
+01/08/21 02:13:13:AM: ERROR:---> it is error
+01/08/21 02:13:13:AM: CRITICAL:---> It is critical
+01/08/21 02:13:27:AM: DEBUG:---> Class setup is done
+01/08/21 02:13:27:AM: INFO:---> it is info
+01/08/21 02:13:27:AM: WARNING:---> it is warning
+01/08/21 02:13:27:AM: ERROR:---> it is error
+01/08/21 02:13:27:AM: CRITICAL:---> It is critical
+01/08/21 02:13:44:AM: DEBUG:---> Class setup is done
+01/08/21 02:13:44:AM: INFO:---> it is info
+01/08/21 02:13:44:AM: WARNING:---> it is warning
+01/08/21 02:13:44:AM: ERROR:---> it is error
+01/08/21 02:13:44:AM: CRITICAL:---> It is critical
+01/08/21 02:14:07:AM: DEBUG:---> Class setup is done
+01/08/21 02:14:07:AM: INFO:---> it is info
+01/08/21 02:14:07:AM: WARNING:---> it is warning
+01/08/21 02:14:07:AM: ERROR:---> it is error
+01/08/21 02:14:07:AM: CRITICAL:---> It is critical
+01/08/21 02:15:11:AM: DEBUG:---> Class setup is done
+01/08/21 02:15:11:AM: INFO:---> it is info
+01/08/21 02:15:11:AM: WARNING:---> it is warning
+01/08/21 02:15:11:AM: ERROR:---> it is error
+01/08/21 02:15:11:AM: CRITICAL:---> It is critical
